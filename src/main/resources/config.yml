@@ -1,0 +1,5 @@
+items:
+  server-select:
+    type: COMPASS
+    name: '&a服务器选择&7(右键使用)'
+    commands: 'dm open server-select'

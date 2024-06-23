@@ -1,0 +1,4 @@
+name: ItemCommands
+version: '${version}'
+main: cc.sakurua.itemcommands.ItemCommands
+api-version: '1.21'
